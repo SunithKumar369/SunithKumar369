@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sunith Kumar
 - 👀 I’m interested to learn coding
-- 🌱 I’m currently learning a course related to programming foundations
 - 💞️ I’m looking to collaborate on oppturtunities to learn
 
 <!---
